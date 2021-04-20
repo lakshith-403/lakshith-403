@@ -6,4 +6,4 @@
 - 📫 How to reach me: lakshith.k.nishshanke@gmail.com
 - ⚡ Fun fact: you're breathtaking 💙
 
-![Alt Text](https://media.giphy.com/media/CTX0ivSQbI78A/giphy.gif)
+![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
