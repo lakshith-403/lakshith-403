@@ -1,7 +1,3 @@
-### Hi there 👋 I'm Lakshith
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshith) 
 
-[LinkedIn](https://www.linkedin.com/in/lakshith/)
-
-[Gmail](https://www.linkedin.com/in/lakshith/)
-
-![Alt Text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LakshithNishsh2) 
