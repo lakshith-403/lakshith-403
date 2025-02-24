@@ -1,4 +1,4 @@
-### Hello, I'm Lakshith! a passionate developer with a wide range of interests.
+### Hello, I'm Lakshith!
 
 
-**Check out my website: [lakshith.me](https://lakshith.me)** (Or not. Because it's down hehe)
+**Check out my website: [lakshith.me]([https://lakshith.me](https://lakshith-403.github.io/))**
